@@ -21,7 +21,7 @@ CREATE TABLE instructor (
 );
 CREATE TABLE class (
 	crn INTEGER NOT NULL,
-	course_department CHAR(5),
+	course_department VARCHAR(5),
     course_number INTEGER,
     course_title VARCHAR(100),
     semester_provided VARCHAR(12),
