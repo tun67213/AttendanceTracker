@@ -6,4 +6,5 @@
     <string name="username_hint">Enter a username</string>
     <string name="password_label">   Password</string>
     <string name="password_input_field">Enter a password</string>
+    <string name="password_hint">Enter a password</string>
 </resources>
